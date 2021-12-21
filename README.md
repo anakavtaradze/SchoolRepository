@@ -1,3 +1,0 @@
-"# SchoolRepository" 
-"# School" 
-"# School" 
